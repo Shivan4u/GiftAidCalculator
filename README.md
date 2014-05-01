@@ -1,6 +1,6 @@
 ## Intro
 
-A big part of what we do at [JustGiving](http://www.justgiving.com) is reclaim the [Gift Aid](http://en.wikipedia.org/wiki/Gift_Aid) on donations made to charities. This saves them a lot of time and processing overheads.
+
 
 This assignment is a very small task to create a Gift Aid calculator.
 
