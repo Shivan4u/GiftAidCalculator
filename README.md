@@ -1,4 +1,3 @@
 GiftAidCalculator
 =================
-
 Gift aid calculator
