@@ -1,0 +1,4 @@
+GiftAidCalculator
+=================
+
+Gift aid calculator
